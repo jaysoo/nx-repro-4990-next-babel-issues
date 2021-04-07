@@ -20,7 +20,8 @@
         "cacheableOperations": ["build", "test", "lint", "e2e"],
         "canTrackAnalytics": false,
         "showUsageWarnings": true,
-        "scan": true
+        "scan": true,
+        "accessToken": "NGQ0MTc3ZjQtZjliYy00YTFmLWFhZTQtN2U2OThmYTM5OGIwfHJlYWQtd3JpdGU="
       }
     }
   },
