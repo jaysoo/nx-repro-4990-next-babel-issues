@@ -1,0 +1,8 @@
+{
+  "extends": ["plugin:@nrwl/nx/react", "../../../.eslintrc.json"],
+  "ignorePatterns": ["!**/*"],
+  "rules": {
+    "@typescript-eslint/ban-types": 1,
+    "@typescript-eslint/no-extra-semi": 0
+  }
+}
